@@ -1,0 +1,12 @@
+D:\whl\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\whl\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\whl\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\whl\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\whl\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\whl\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\whl\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+J:\课堂自写代码\2015.11.02\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+J:\课堂自写代码\2015.11.02\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+J:\课堂自写代码\2015.11.02\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+J:\课堂自写代码\2015.11.02\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+J:\课堂自写代码\2015.11.02\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

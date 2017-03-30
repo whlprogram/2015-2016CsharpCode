@@ -1,0 +1,39 @@
+c:\documents and settings\zzu\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\documents and settings\zzu\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\documents and settings\zzu\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\zzu\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\documents and settings\zzu\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\documents and settings\zzu\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\zzu\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\zzu\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\documents and settings\zzu\my documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\zzu\桌面\201577F0245魏靖京\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\zzu\桌面\201577F0245魏靖京\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\zzu\桌面\201577F0245魏靖京\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\zzu\桌面\201577F0245魏靖京\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\zzu\桌面\201577F0245魏靖京\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\zzu\桌面\201577F0245魏靖京\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\zzu\桌面\201577F0245魏靖京\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\zzu\桌面\201577F0245魏靖京\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\zzu\桌面\201577F0245魏靖京\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\zzu\桌面\201577F0235王海龙\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\zzu\桌面\201577F0235王海龙\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\zzu\桌面\201577F0235王海龙\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\zzu\桌面\201577F0235王海龙\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\zzu\桌面\201577F0235王海龙\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\zzu\桌面\201577F0235王海龙\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\zzu\桌面\201577F0235王海龙\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\zzu\桌面\201577F0235王海龙\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\zzu\桌面\201577F0235王海龙\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\201577F0235王海龙\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+I:\201577F0235王海龙\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+I:\201577F0235王海龙\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+I:\201577F0235王海龙\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+I:\201577F0235王海龙\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+I:\201577F0235王海龙\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+I:\201577F0235王海龙\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+I:\201577F0235王海龙\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\C#\C#作业\下学期\201577F0235王海龙\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\C#\C#作业\下学期\201577F0235王海龙\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+G:\C#\C#作业\大一下学期\2016.5.11\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\C#\C#作业\大一下学期\2016.5.11\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

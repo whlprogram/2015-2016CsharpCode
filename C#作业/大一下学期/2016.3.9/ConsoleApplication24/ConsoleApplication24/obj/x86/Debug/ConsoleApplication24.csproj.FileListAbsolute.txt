@@ -1,0 +1,10 @@
+D:\ConsoleApplication24\ConsoleApplication24\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe
+D:\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.pdb
+D:\ConsoleApplication24\ConsoleApplication24\obj\x86\Debug\ConsoleApplication24.exe
+D:\ConsoleApplication24\ConsoleApplication24\obj\x86\Debug\ConsoleApplication24.pdb
+G:\C#\C#作业\大一下学期\2016.3.9\ConsoleApplication24\ConsoleApplication24\obj\x86\Debug\ConsoleApplication24.exe
+G:\C#\C#作业\大一下学期\2016.3.9\ConsoleApplication24\ConsoleApplication24\obj\x86\Debug\ConsoleApplication24.pdb
+G:\C#\C#作业\大一下学期\2016.3.9\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe
+G:\C#\C#作业\大一下学期\2016.3.9\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.pdb
+G:\C#\C#作业\大一下学期\2016.3.9\ConsoleApplication24\ConsoleApplication24\obj\x86\Debug\ConsoleApplication24.csprojResolveAssemblyReference.cache
